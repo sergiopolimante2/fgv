@@ -1,7 +1,3 @@
 # FGV
 
 A DEMONSTRAÇÃO COM OS ALUNOS DEU CERTO!!!!
-
-APRENDEMOS GIT!!! :tada: :tada: :tada:
-
-test
